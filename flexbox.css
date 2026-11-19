@@ -1,0 +1,17 @@
+.flexContainer {
+   display: flex;
+   justify-content: center;
+   /* flex-direction: row; */
+   /* flex-direction: column; */
+   /* flex-direction: column-reverse; */
+   /* flex-direction: row-reverse; */
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    margin-top: 5px;
+    margin-right: 5px;
+}
